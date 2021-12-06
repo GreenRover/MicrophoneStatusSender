@@ -9,10 +9,10 @@ For the actual presence light i use a ESP32 running a webserver and accepting st
 ## programm arguments
 
 This mini application takes 4 arguments:
-1.) The name or a part of the name of your microphone
-2.) A comma sepearted list of application that should not trigger an active status if using the microphone.
-3.) The HTTP url that should be called when microphone is in use.
-4.) The HTTP url that should be called when microphone is not used any more.
+1. The name or a part of the name of your microphone
+2. A comma sepearted list of application that should not trigger an active status if using the microphone.
+3. The HTTP url that should be called when microphone is in use.
+4. The HTTP url that should be called when microphone is not used any more.
 
 ## programm flow
 
